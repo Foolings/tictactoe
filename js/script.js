@@ -1,6 +1,8 @@
 
-
-
+function performLogic(button, tile){
+    $(tile).html(player);
+}
+let player = "x";
 
 
 
